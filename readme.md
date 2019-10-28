@@ -1,1 +1,2 @@
-thanks for watching
+thanks for watching 
+diff with your ubuntu
